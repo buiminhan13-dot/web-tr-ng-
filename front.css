@@ -1,0 +1,11 @@
+<style>
+  body {
+    font-size: 16px;
+    padding: 10px;
+  }
+
+  p {
+    font-size: 1.2em; /* co giãn theo màn hình */
+    line-height: 1.6; /* dễ đọc */
+  }
+</style>
